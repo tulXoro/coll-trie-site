@@ -2,7 +2,7 @@ export default function Footer() {
     return (
         <footer className="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900">
             <div className="sm:flex sm:items-center sm:justify-between">
-                <a href="#" className="flex items-center mb-4 sm:mb-0">
+                <a href="./" className="flex items-center mb-4 sm:mb-0">
                     <img src="" className="mr-3 h-8" alt="Logo" />
                     <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">CollTrie</span>
                 </a>
