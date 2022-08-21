@@ -17,9 +17,18 @@ export default function Home() {
 			<Navbar />
 
 			<main className={styles.main}>
-				<div id="container" className = "">
-					<div id="hook"></div>
-					<div id="extra"></div>
+				<div id="hero" className = {styles.hero}>
+					<div id = "banner">
+						<div id="hook">We Weave Websites</div>
+						<div id="caption"></div>
+						<button/>
+					</div>
+
+					<div id="banner2">
+						<div id="image2"></div>
+						<div id="caption"></div>
+					</div>	
+
 				</div>
 
 				<div id="secondpart">

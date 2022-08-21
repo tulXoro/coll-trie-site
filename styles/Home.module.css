@@ -1,6 +1,5 @@
 .main {
     min-height: 100vh;
-    padding: 4rem 0;
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -125,4 +124,12 @@
     .logo img {
         filter: invert(1);
     }
+}
+
+.hero {
+    background-image: url('../img/hero-placeholder.jpeg');
+    height: inherit;
+    width: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
