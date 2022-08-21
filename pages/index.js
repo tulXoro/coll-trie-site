@@ -18,9 +18,11 @@ export default function Home() {
 
 			<main className={styles.main}>
 				<div id="hero" className = {styles.hero}>
-					<div id = "banner">
-						<div id="hook">We Weave Websites</div>
-						<div id="caption"></div>
+					<div className={styles.banner}>
+						<span className={styles.hookspan}>We weave <span className={styles.hookbold}>websites!</span></span>
+						<div id="caption">
+							<span className={styles.hookspan}>Try saying that ten times <span className={styles.hookbold}>fast.</span></span>
+						</div>
 						<button/>
 					</div>
 

@@ -128,8 +128,26 @@
 
 .hero {
     background-image: url('../img/hero-placeholder.jpeg');
-    height: inherit;
-    width: inherit;
+    height: fit-content;
+    width: fit-content;
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 10%;
+}
+
+.banner {
+    background-color: #FFFFFF;  
+    border-color: #033F63;
+    border-width: thick;
+    opacity: 0.75;
+}
+
+.hookspan{
+    color:black;
+    font-weight: bold;
+}
+
+.hookbold{
+    color:#033F63;
+    font-weight: bold;
 }
