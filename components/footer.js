@@ -23,16 +23,16 @@ export default function Footer() {
                     </tr>
                     <tr>
                         <td>
-                            <p>Find out about our work.</p>
+                            <span>Find out about our work.</span>
                         </td>
                         <td>
-                            <p>Learn more about our services.</p>
+                            <span>Learn more about our services.</span>
                         </td>
                         <td>
-                            <p>Reach out to us for questions/commissions</p>
+                            <span>Reach out to us for questions/commissions</span>
                         </td>
                         <td>
-                            <p>Get to know about our group and our goals.Reach out to us for questions/commissions.</p>
+                            <span>Get to know about our group and our goals.Reach out to us for questions/commissions.</span>
                         </td>
                     </tr>
                 </table>
