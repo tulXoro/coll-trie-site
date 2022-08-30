@@ -22,8 +22,12 @@ export default function Home() {
 						<span className={styles.hookspan}>We weave <span className={styles.hookbold}>websites!</span></span>
 						<div id="caption">
 							<span className={styles.hookspan}>Try saying that ten times <span className={styles.hookbold}>fast.</span></span>
+						
 						</div>
-						<button/>
+
+						<button className={styles.button}>
+							Click me!
+						</button>
 					</div>
 
 					<div id="banner2">
